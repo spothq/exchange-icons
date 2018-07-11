@@ -1,3 +1,5 @@
+![Exchange icons](img/splash.png)
+
 # Exchanges icons
 This repository contains cryptocurrency exchanges icons.
 
